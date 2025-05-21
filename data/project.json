@@ -24,11 +24,89 @@
     "auto_populate_home_page": false,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Transcript",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Interviewer",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Interviewee",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Micheal Lewis",
+          "category": "Interviewer"
+        },
+        {
+          "tag": "Edward Brooks",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "James Clendenen",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Makenna Wilson",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Michael Zavada",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Todd Richardson",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Neta Rhyne",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Schuyler Wight",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Sarah Stogner",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Suzanne Franklin",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Christa Mancias",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Frankie Orona",
+          "category": "Interviewee"
+        }
+      ]
     },
     "created_at": "2025-05-21T12:18:51.954Z",
-    "updated_at": "2025-05-21T12:32:47.318Z",
+    "updated_at": "2025-05-21T12:45:37.851Z",
     "generate_pages_site": true
   },
   "annotations": {},
